@@ -1,0 +1,4 @@
+Ollama
+langchain
+streamlit
+llama
